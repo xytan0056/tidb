@@ -1,4 +1,4 @@
-module github.com/pingcap/tidb
+module github.com/pingcap/tidb/v7
 
 go 1.20
 
